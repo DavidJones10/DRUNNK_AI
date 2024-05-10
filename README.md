@@ -3,6 +3,7 @@
 
 <img src="https://www.shutterstock.com/shutterstock/photos/2268622215/display_1500/stock-vector-keyboard-b-key-mascot-cartoon-vomiting-character-design-2268622215.jpg" alt="drawing" height="200" width="200"/>
 
+### [DEMO VIDEO](https://youtu.be/8SznzAHguCc)
 ### An interactive website that uses RAVE to resynthesize input files as a set of resampled output files and interact with them through simple web games.
 
 ## Visit this site to test it out (the server only works with localhost at the moment):
